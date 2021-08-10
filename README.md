@@ -3,7 +3,7 @@ This project is used for Encrypting and Decrypting data which mainly uses Hybrid
 # STEPS TO FOLLOW TO ENCRYPT OR DECRYPT DATA
   use sequence diagram to understand the step by step process to follow
 # SEQUENCE DIAGRAM
-  
+![project_page-0001](https://user-images.githubusercontent.com/87997298/128847486-03556c41-9110-4a86-aef4-ff14f29aaac2.jpg)
 # INTERFACE OF MAIN
 ![Screenshot (22)](https://user-images.githubusercontent.com/87997298/128840023-fc53ae63-17ba-4090-a08f-43ce4a6fd911.png)
 # INTERFACE OF ENCRYPTION WINDOW(ENC)
