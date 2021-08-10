@@ -8,6 +8,8 @@ This project is used for Encrypting and Decrypting data which mainly uses Hybrid
 ![Screenshot (24)](https://user-images.githubusercontent.com/87997298/128840534-8e47dc86-485b-4c27-a1c4-d60ee3511bb3.png)
 # INTERFACE OF ENCRYPTING KEY (ESKEY)
 # INTERFACE OF DECRYPTING KEY(DSKEY)
+![Screenshot (26)](https://user-images.githubusercontent.com/87997298/128840825-5e361d55-c55b-454e-8df9-6253e7ea04c4.png)
+
 # INTERFACE OF GENERATE KEY(GK)
 ![Screenshot (27)](https://user-images.githubusercontent.com/87997298/128840680-bb38f682-bea4-48c6-b954-cdecc551698a.png)
 
