@@ -7,6 +7,7 @@ This project is used for Encrypting and Decrypting data which mainly uses Hybrid
 # INTERFACE OF DECRYPTION WINDOW(DEC)
 ![Screenshot (24)](https://user-images.githubusercontent.com/87997298/128840534-8e47dc86-485b-4c27-a1c4-d60ee3511bb3.png)
 # INTERFACE OF ENCRYPTING KEY (ESKEY)
+![Screenshot (25)](https://user-images.githubusercontent.com/87997298/128841122-97dc1155-b00f-4c41-b756-fc94beef0ab3.png)
 # INTERFACE OF DECRYPTING KEY(DSKEY)
 ![Screenshot (26)](https://user-images.githubusercontent.com/87997298/128840825-5e361d55-c55b-454e-8df9-6253e7ea04c4.png)
 
